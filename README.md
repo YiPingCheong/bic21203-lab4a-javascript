@@ -37,14 +37,51 @@ It clears previous list items to prevent duplicates.
 3. Open the index.html file in a web browser.
 4. Click the buttons to test the JavaScript functions.
 
+
 ## Screenshots
 
-### Question 1
-Screenshots showing the paragraph before and after
-clicking the Change Message button.
+### Question 1: Interactive Text Changer
 
-### Question 2
-Screenshots showing valid and invalid number inputs.
+**Before Clicking the Button**
 
-### Question 3
-Screenshots showing the generated list from 1 to 5.
+![Q1 Before](Screenshots/Q1-before.png)
+
+**After Clicking the Button**
+
+![Q1 After](Screenshots/Q1-after.png)
+
+### Question 2: Smart Number Validator
+
+**Input: 5 (Lower than 10)**
+
+![Q2 Input 5](Screenshots/Q2-5.png)
+
+**Input: 10 (Equal to 10)**
+
+![Q2 Input 10](Screenshots/Q2-10.png)
+
+**Input: 15 (Higher than 10)**
+
+![Q2 Input 15](Screenshots/Q2-15.png)
+
+**Input: abc (Invalid Input)**
+
+![Q2 Invalid Input](Screenshots/Q2-abc.png)
+
+**Empty Input**
+
+![Q2 Empty Input](Screenshots/Q2-empty.png)
+
+**Input: 10.5 (Decimal Number)**
+
+![Q2 Decimal Input](Screenshots/Q2-10.5.png)
+
+### Question 3: Dynamic Number Generator
+
+**Before Clicking Generate**
+
+![Q3 Before](Screenshots/Q3-before.png)
+
+**After Clicking Generate**
+
+![Q3 After](Screenshots/Q3-after.png)
